@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_style_oval"
+    app:startDestination="@id/styleOvalListFragment">
+
+    <fragment
+        android:id="@+id/styleOvalListFragment"
+        android:name="com.example.get_set_go.StyleOvalListFragment"
+        android:label="Sixth Kind"
+        tools:layout="@layout/fragment_style_oval_list" >
+        <action
+            android:id="@+id/action_styleOvalListFragment_to_styleOvalNewsFragment"
+            app:destination="@id/styleOvalNewsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/styleOvalNewsFragment"
+        android:name="com.example.get_set_go.StyleOvalNewsFragment"
+        android:label="Description"
+        tools:layout="@layout/fragment_style_oval_news" />
+</navigation>

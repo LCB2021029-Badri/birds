@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_style_rectangle"
+    app:startDestination="@id/styleRectangleListFragment">
+
+    <fragment
+        android:id="@+id/styleRectangleListFragment"
+        android:name="com.example.get_set_go.StyleRectangleListFragment"
+        android:label="Fourth Kind"
+        tools:layout="@layout/fragment_style_rectangle_list" >
+        <action
+            android:id="@+id/action_styleRectangleListFragment_to_styleRectangleNewsFragment"
+            app:destination="@id/styleRectangleNewsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/styleRectangleNewsFragment"
+        android:name="com.example.get_set_go.StyleRectangleNewsFragment"
+        android:label="Description"
+        tools:layout="@layout/fragment_style_rectangle_news" />
+</navigation>

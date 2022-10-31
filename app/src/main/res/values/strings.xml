@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Fly Away</string>
+    <string name="scroll1">Style - 1</string>
+    <string name="scroll2">Style - 2</string>
+    <string name="scroll3">Style - 3</string>
+    <string name="scroll4">Style - 4</string>
+    <string name="scroll5">Style - 5</string>
+    <string name="scroll6">Style - 6</string>
+    <string name="scroll7">Style - 7</string>
+    <string name="scroll8">Style - 8</string>
+    <string name="scroll9">Style - 9</string>
+    <string name="scroll10">Style - 10</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- data for the recycler view to be implemented in fragment   -->
+    <!--    news    -->
+    <string name="news_a">yo nigga</string>
+    <!--    headlines    -->
+    <string name="head_a">Hello nigga</string>
+
+
+    <string name="list_fragment_label">Sports</string>
+    <string name="news_fragment_label">Sports News</string>
+
+    <!-- for second activity navigation drawer -->
+    <string name="sharing_not_available">Sharing Not Available</string>
+    <string name="share_text">Download the "GET-SET-GO" app in you android device to set your hairstyle whenever you want. Share the app to your friends and family, so that everyone can look dazzling along with you.</string>
+
+    <!-- forn sports app things   -->
+    <string name="title_placeholder">Title</string>
+    <string name="news_title">Birds</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="sports_news_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    />
+
+    <!-- for "about us" activity   -->
+    <string name="Specialization">CSB,2021:</string>
+    <string name="aboutus_news_title">Description:</string>
+    <string name="aboutus_badri">Badri Akkala LCB2021029</string>
+    <string name="aboutus_bindu">Hima Bindu LCB2021055</string>
+    <string name="aboutus_greeshma">Greeshma LCB2021018</string>
+    <string name="aboutus_work_badri">All-Rounder</string>
+    <string name="aboutus_work_bindu">Content</string>
+    <string name="aboutus_work_greeshma">Content</string>
+    <string name="aboutus_badri_news">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="aboutus_bindu_news">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="aboutus_greeshma_news">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.</string>
+
+
+    <!--  Style 1 : Oval  -->
+    <string name="style1">Section-1</string>
+    <string name="style2">Section-2</string>
+    <string name="style3">Section-3</string>
+    <string name="style4">Section-4</string>
+    <string name="style5">Section-5</string>
+    <string name="style6">Section-6</string>
+    <string name="style7">Section-7</string>
+    <string name="style8">Section-8</string>
+    <string name="style1_subtitle">Here is some Baseball news!</string>
+    <string name="style2_subtitle">Here is some Badminton news!</string>
+    <string name="style3_subtitle">Here is some Basketball news!</string>
+    <string name="style4_subtitle">Here is some Bowling news!</string>
+    <string name="style5_subtitle">Here is some Cycling news!</string>
+    <string name="style6_subtitle">Here is some Golf news!</string>
+    <string name="style7_subtitle">Here is some Running news!</string>
+    <string name="style8_subtitle">Here is some Soccer news!</string>
+    <string name="style1_news">A set of blunt bangs works great with oval face shapes (particularly if you have a larger forehead). Customize their thickness to suit your individual texture, but make sure the length sits at or just below your eyebrows for the most flattering effect.
+The full fringe wasn’t a thing until the 1920s, when it was memorably donned by Louise Brooks in the 1929 film Pandora’s Box. Then there was 1950s pin up girl Bettie Page’s fringe which, along with her jet black hair and blue eyes, was her trademark look. And who can forget Elizabeth Taylor’s iconic blunt bags in the film Cleopatra, which catapulted fringes to the forefront and was requested by every hairdresser in the 1960s?
+In the 1980s and early 90s, the fashion set opted for a more natural feel and fringes were often curled and wispy.
+</string>
+    <string name="style2_news">FullFringe</string>
+    <string name="style3_news">Take it from the woman who broke the world record for fastest person to reach a million followers on Instagram: There is nothing wrong with adopting a signature cut. Jennifer’s long, sweeping layers are easy to style and frame her face nicely on either side.
+However, you may wonder whether these cuts would be realistic for everyday life. You’re not being paranoid. Whenever you make a big change to your hair, it’s wise to consider all points.
+A poorly-executed layered haircut can cause lots of annoying issues. It can make your hair look frizzy with many flyaways, make you look unintentionally older, and draw attention to perceived facial flaws.
+</string>
+    <string name="style4_news">FullFringe</string>
+    <string name="style5_news">A Quiff Haircut is often an ideal hairstyle for men with thick hair and an oval face.
+It is very stylish, easy to achieve, and give you a classic yet corporate look.
+The quiff hairstyle has remained one of the most influential and enduring hair trends for many decades. It is one of the most classic, timeless styles that can be harnessed by different age groups and is appropriate for various events. The quiff has also been the hairstyle of choice in cinema, music, and even politics. From its earliest versions to its current adaptations today, we take you through the best quiff hairstyles for men.
+</string>
+    <string name="style6_news">Fans of famous musicians like G-Eazy can unanimously agree with me that his slick backs are always the best.
+This hairstyle is simple, easy to do, and saves you a lot of time than most hairstyles.
+Some men’s hairstyles come and go, only lasting a few years. These temporary styles die out after a fashion fad is over and don’t have the impact to survive the test of time. Others stay trendy for decades and remain a classic style that can’t be touched. Slicked back hair is exactly that.
+</string>
+    <string name="style7_news">Crew cuts are well known for being short and simple.
+Plus:Crew Cuts can look good on just about any face shape.Its long top hair and seemingly fading sides can help to spruce up your look in an awesome way.
+Finding a hairstyle that’s both stylish and practical can be a challenging task. Luckily, there’s one classic haircut that all gents can turn to for a sophisticated look with minimal fuss. The crew cut is a timeless men’s hairstyle that is both minimal and elegant. Not only does it exude confidence and appear sharp, but this short haircut is also simple to maintain and easy to style. As such, it’s perfect for any gent who values looking good without expending a lot of effort. So, if you need a look that’ll see you through from nine to five and beyond without costing you valuable time every morning, these are the top masculine crew cuts that you should try.
+</string>
+    <string name="style8_news">The Buzz Cut is probably the easiest and simplest oval hairstyles male.
+It features very short and evenly-sized hair all around your head.
+Aside from being a short hairstyle for oval face man, the buzzcut is also very applicable and can be ideal for both formal and informal occasions.
+A buzz cut remains one of the most popular short haircuts for men and not for nothing. While being practical and low maintenance, it offers a bold and daring look. Because it is so short, it allows you to show off your facial features like no other. What is more, it works for all hair textures and can be achieved in many different ways. Feeling intrigued? Do not hesitate to check out our guide.
+</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_style_triangle"
+    app:startDestination="@id/styleTriangleListFragment">
+
+    <fragment
+        android:id="@+id/styleTriangleListFragment"
+        android:name="com.example.get_set_go.StyleTriangleListFragment"
+        android:label="Second Kind"
+        tools:layout="@layout/fragment_style_triangle_list" >
+        <action
+            android:id="@+id/action_styleTriangleListFragment_to_styleTriangleNewsFragment"
+            app:destination="@id/styleTriangleNewsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/styleTriangleNewsFragment"
+        android:name="com.example.get_set_go.StyleTriangleNewsFragment"
+        android:label="Description"
+        tools:layout="@layout/fragment_style_triangle_news" />
+</navigation>

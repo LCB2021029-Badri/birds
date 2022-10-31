@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- shows the path where we are storing the image ( as bitmap ) and load it later  -->
+<!-- code is same for most of the apps -->
+<!-- we are typind all the possible paths so that the app will never crash -->
+<paths>
+    <external-path
+        name="external"
+        path="."/>
+    <external-files-path
+        name="external_files"
+        path="."/>
+    <cache-path
+        name="cache"
+        path="."/>
+    <external-cache-path
+        name="external_cache"
+        path="."/>
+    <files-path
+        name="files"
+        path="."/>
+</paths>

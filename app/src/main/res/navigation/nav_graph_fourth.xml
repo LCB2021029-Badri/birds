@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_fourth"
+    app:startDestination="@id/aboutusListFragment">
+
+    <fragment
+        android:id="@+id/aboutusListFragment"
+        android:name="com.example.get_set_go.AboutusListFragment"
+        android:label="About us"
+        tools:layout="@layout/fragment_aboutus_list" >
+        <action
+            android:id="@+id/action_aboutusListFragment_to_aboutusNewsFragment2"
+            app:destination="@id/aboutusNewsFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutusNewsFragment2"
+        android:name="com.example.get_set_go.AboutusNewsFragment"
+        android:label="Member"
+        tools:layout="@layout/fragment_aboutus_news" />
+</navigation>
